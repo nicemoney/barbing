@@ -1,0 +1,22 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.h1 {
+    color: white;
+    background-color: rgba(9, 211, 211, 0.952);
+    text-align: center;
+    padding: 9px 11px;
+}
+
+.p1 {
+    font-family: cochin;
+    font-weight: 800;
+    font-size: 23px;
+}
